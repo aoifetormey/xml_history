@@ -3,5 +3,41 @@
 <reference id="html_elements">
     <title>Some of the elements in HTML</title>
     <shortdesc>An HTML element is an individual component of an HTML (Hypertext Markup Language) document or web page</shortdesc>
-    <refbody> </refbody>
+    <refbody> 
+    <table>
+        <tgroup cols="2">
+            <thead>
+                <row>
+                    <entry>Element</entry><entry>Tag</entry>
+                </row>
+            </thead>
+            <tbody>
+                <row>
+                    <entry>Text header</entry>
+                    <entry> &lt;h1&gt;,  &lt;h2&gt;,  &lt;h3&gt;,  &lt;h4&gt;,  &lt;h5&gt;,  &lt;h6&gt;</entry>
+                </row>
+                <row>
+                    <entry>Paragraph</entry>
+                    <entry> &lt;p&gt;</entry>
+                </row>
+                <row>
+                    <entry>Horizontal ruler</entry>
+                    <entry> &lt;hr&gt;</entry>
+                </row>
+                <row>
+                    <entry>Link</entry>
+                    <entry> &lt;a&gt;</entry>
+                </row>
+                <row>
+                    <entry>List</entry>
+                    <entry> &lt;ul&gt; (unordered list), &lt;ol&gt; (ordered list) and &lt;li&gt; (list element) tags</entry>
+                </row>
+                <row>
+                    <entry>Image</entry>
+                    <entry> &lt;img&gt;</entry>
+                </row>
+            </tbody>
+        </tgroup>
+    </table>
+    </refbody>
 </reference>

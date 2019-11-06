@@ -6,6 +6,11 @@
     <refbody>
     <table>
         <tgroup cols="2">
+            <thead>
+                <row>
+                    <entry>Markup Language</entry><entry>Meaning</entry>
+                </row>
+            </thead>
             <tbody>
                 <row>
                     <entry>HTML</entry><entry>Hypertext Markup Language</entry>
