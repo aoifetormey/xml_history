@@ -3,5 +3,30 @@
 <reference id="markup_languages">
     <title>Different markup languages</title>
     <shortdesc>In reality, there are many different markup languages out there in the world. For web design and development, there are three specific markup languages that you will likely run across.</shortdesc>
-    <refbody> </refbody>
+    <refbody>
+    <table>
+        <tgroup cols="2">
+            <tbody>
+                <row>
+                    <entry>HTML</entry><entry>Hypertext Markup Language</entry>
+                </row>
+                <row>
+                    <entry>KML</entry><entry>Key whole Markup Language</entry>
+                </row>
+                <row>
+                    <entry>MathML</entry><entry>Mathematical Markup Language</entry>
+                </row>
+                <row>
+                    <entry>SGML</entry><entry>Standard Generalized Markup Language</entry>
+                </row>
+                <row>
+                    <entry>XHTML</entry><entry>eXtensible Hypertext Markup Language</entry>
+                </row>
+                <row>
+                    <entry>XML</entry><entry>eXtensible Markup Language</entry>
+                </row>
+            </tbody>
+        </tgroup>
+    </table>
+    </refbody>
 </reference>
