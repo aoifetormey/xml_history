@@ -2,7 +2,7 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
 <task id="create_schema">
     <title>How to create a schema language in Oxygen</title>
-    <shortdesc>An XML Schema describes the structure of an XML document and is used to validate</shortdesc>
+    <shortdesc>An XML Schema describes the structure of an XML document and is used for validation purposes.</shortdesc>
     <taskbody>
         <context>
             <p></p>
