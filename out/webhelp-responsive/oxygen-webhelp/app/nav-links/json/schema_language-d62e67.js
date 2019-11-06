@@ -1,0 +1,1 @@
+define({"topics" : [{"title":"Document Type definition (DTD)","shortdesc":"<p class=\"shortdesc\">A document type definition (DTD) is a set of markup declarations that define a document type for a SGML-family markup language</p>","href":"topics\/concepts\/dtd.html","attributes": {"data-id":"dtd",},"menu": {"hasChildren":false,},"tocID":"dtd-d62e78","topics":[]}]});

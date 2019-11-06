@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_markup">
+    <title>What is a markup language</title>
+    <shortdesc>A markup language is a system for annotating a document in a way that is syntactically distinguishable from the text.</shortdesc>
+    <conbody>
+        <p></p>
+    </conbody>
+</concept>

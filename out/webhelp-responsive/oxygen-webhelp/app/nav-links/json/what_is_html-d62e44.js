@@ -1,0 +1,1 @@
+define({"topics" : [{"title":"Some of the elements in HTML","shortdesc":"<p class=\"shortdesc\">An HTML element is an individual component of an HTML (Hypertext Markup Language) document or web page</p>","href":"topics\/references\/html_elements.html","attributes": {"data-id":"html_elements",},"menu": {"hasChildren":false,},"tocID":"html_elements-d62e55","topics":[]}]});

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="schema_language">
+    <title>What is a schema language</title>
+    <shortdesc>An XML Schema is a language for expressing constraints about XML documents</shortdesc>
+    <conbody>
+        <p></p>
+    </conbody>
+</concept>

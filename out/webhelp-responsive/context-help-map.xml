@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="what_is_xml" path="topics/concepts/xml.html"/>
+   <appContext helpID="what_is_markup" path="topics/concepts/markup.html"/>
+   <appContext helpID="markup_languages"
+               path="topics/references/markup_languages.html"/>
+   <appContext helpID="what_is_html" path="topics/concepts/html.html"/>
+   <appContext helpID="html_elements" path="topics/references/html_elements.html"/>
+   <appContext helpID="schema_language" path="topics/concepts/schema_language.html"/>
+   <appContext helpID="dtd" path="topics/concepts/dtd.html"/>
+   <appContext helpID="oxygen" path="topics/concepts/oxygen.html"/>
+   <appContext helpID="create_schema" path="topics/tasks/create_schema.html"/>
+</map>
