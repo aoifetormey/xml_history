@@ -4,6 +4,9 @@
     <title>What is a schema language</title>
     <shortdesc>An XML Schema is a language for expressing constraints about XML documents</shortdesc>
     <conbody>
-        <p></p>
+        <p>The first XML schema language was the Document Type Definition (DTD), which was part of XML 1.0. DTDs provide more than just schema validation features—they include the definition of internal and external entities—but their schema features focus on describing elements. Every element and attribute used by the document type defined by the DTD must be described. Each element must have a content model, identifying which child elements or text nodes are allowed, as well as a list of permissible attributes, if any attributes are allowed. To avoid redundant declarations, DTD developers may use parameter entities, which describe larger pieces of content models and work like a kind of macro processing.
+            W3C XML Schema extends this foundation and defines several kind of components, including elements, attributes, datatypes, groups of elements, and groups of attributes. (Datatypes are containers for various kinds of content, from text to integers to dates.) The approach is still very focused on elements and attributes, which are clearly differentiated.
+            RELAX NG, on the other hand, is based on the generic concept of patterns. Patterns are similar to the XPath node sets, a collection of nodes with an internal structure. To begin with, a pattern can be defined as the description of a set of valid node sets.
+            The difference between patterns and the other approaches may seem subtle, but a DTD or W3C XML Schema element definition tries to give a description of the element itself. When RELAX NG defines the same element, a pattern is defined that is checked against elements in the instance document to see if they match, much as if it were a regular expression being used to match text. The difference is miniscule on the surface, but the pattern approach gives far more flexibility to write, maintain, and combine schemas.</p>
     </conbody>
 </concept>
